@@ -28,7 +28,7 @@ Three short deck videos with original NoBanks music.
 
 <!-- DROP-VIDEO-2 -->
 
-**The sovereign D2C model, pronounced as three full syllables — not an acronym:**
+**The sovereign D2C model, pronounced as three full syllables, not an acronym:**
 
 <!-- DROP-VIDEO-3 -->
 
