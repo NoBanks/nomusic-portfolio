@@ -22,11 +22,11 @@ Three short deck videos with original NoBanks music.
 
 **The sovereign vault, top-line:**
 
-<!-- DROP-VIDEO-1 -->
+https://github.com/user-attachments/assets/268140ba-b7fc-4616-bfcf-bd96d2b591eb
 
 **The sovereign vault, the architecture detail:**
 
-<!-- DROP-VIDEO-2 -->
+https://github.com/user-attachments/assets/aff850de-d7a4-450b-ba1b-85e849c54ac9
 
 **The sovereign D2C model, pronounced as three full syllables, not an acronym:**
 
