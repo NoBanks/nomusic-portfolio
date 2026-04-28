@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/aff850de-d7a4-450b-ba1b-85e849c54ac9
 
 ## Stack
 
-Built with TypeScript, Node, Stripe, R2 sovereign storage. Tracks are AAC 320k from 320k MP3 + WAV masters. Patrons download files directly. No DRM, no platform-locked playback, no streaming infrastructure to maintain. Founder licenses available at [nomusicnearby.com](https://nomusicnearby.com).
+Built with TypeScript, Node, Stripe, R2 sovereign storage. Tracks are MP3 320kbps from WAV masters (AAC delivery on the roadmap). Patrons download files directly. No DRM, no platform-locked playback, no streaming infrastructure to maintain. Founder licenses available at [nomusicnearby.com](https://nomusicnearby.com).
 
 ---
 
