@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/aff850de-d7a4-450b-ba1b-85e849c54ac9
 
 **The sovereign vault, the operator detail:**
 
-<!-- DROP-VIDEO-3 -->
+https://github.com/user-attachments/assets/b680ce57-13e8-42f7-a587-9683c06d3d2d
 
 ---
 
