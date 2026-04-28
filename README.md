@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/268140ba-b7fc-4616-bfcf-bd96d2b591eb
 
 https://github.com/user-attachments/assets/aff850de-d7a4-450b-ba1b-85e849c54ac9
 
-**The sovereign D2C model, pronounced as three full syllables, not an acronym:**
+**The sovereign vault, the operator detail:**
 
 <!-- DROP-VIDEO-3 -->
 
